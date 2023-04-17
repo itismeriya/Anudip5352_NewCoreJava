@@ -20,10 +20,3 @@ public class ElectricityBill{
          System.out.println("The electricity bill is:" +bill);
     }
 }
-
-//OUTPUT
-//C:\Users\DELL\Desktop\Koyel Ghosh - 16500221044\Java>javac ElectricityBill.java
-
-//C:\Users\DELL\Desktop\Koyel Ghosh - 16500221044\Java>java ElectricityBill.java
-//Enter the unit: 5
-//The electricity bill is:6.0
